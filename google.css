@@ -1,0 +1,153 @@
+html, div, body, h1, ul{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+ul,li,ol,li{
+    list-style:none;
+}
+
+.top_right{
+    position: relative;
+    text-align: right;
+}
+.top_right ul span{
+    position: relative;
+    right: 24px;
+    top: 5px;
+    text-decoration: none;
+    font-size: 13px;
+    color: black;
+    text-decoration: none;
+    padding-left: 15px;
+    font-family: 'Apple SD Gothic Neo',arial,sans-serif;
+}
+a:link { color: rgb(0, 0, 0); text-decoration: none;}
+a:visited { color: black; text-decoration: none;}
+#frame_{
+    background-image: url(all.png);
+    display: inline-block;
+    position: relative;
+    top: 6px;
+    width: 30px;
+    height: 30px;
+    background-size: 528px 68px;
+    background-position: -132px -34px;
+    background-repeat: no-repeat;
+}
+#login_{
+    position:relative;
+    right: 5px;
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 28px;
+    padding: 0 12px;
+    background-color: #4285f4;
+    color: white;
+    border-radius: 7%;
+}
+#center{
+    display: block;
+    margin-top: 90px;
+}
+.center_img{
+    background-image: url(googlelogo_color_272x92dp.png);
+    width: 271px;
+    height: 92px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 160px auto 30px;
+}
+#text_box{
+    width: 500px;
+    height: 30px;
+    outline: none;
+    outline-style: none;
+    margin-top: 3px;
+    border: none;
+    font-size: 16px;
+}
+
+.write{
+    text-align: center;
+    border: 1px solid black;
+    width: 580px;
+    height: 40px;
+    margin: 60px auto 30px;
+    border-width: 1px;
+    border-color: rgb(204, 204, 204);
+    border-radius: 20px;
+    box-shadow: rgb(172, 172, 172);
+}
+#ehe{
+    position: relative;
+    left: 12px;
+    top: -26px;
+    background-image: url(all.png);
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: -250px -34px;
+}
+#key{
+    background-image: url('//www.gstatic.com/inputtools/images/tia.png');
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    position: relative;
+    right: -504px;
+    top: -40px;
+}
+#mic{
+    background-image: url(mic.PNG);
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    position: relative;
+    right: -540px;
+    top: -72px;
+}
+.link_{
+    margin: 0 10px 0;
+    text-align: center;
+}
+#google{
+    margin: 0 auto 0;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(240, 240, 240);
+    padding: 10px 15px 10px 15px;
+    font-size: 14px;
+    color: rgb(110, 110, 110);
+    font-family: 'Apple SD Gothic Neo',arial,sans-serif;
+    cursor: pointer;
+}
+#Lucky{
+    margin: 0 auto 0;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(240, 240, 240);
+    padding: 10px;
+    font-size: 14px;
+    color: rgb(110, 110, 110);
+    font-family: 'Apple SD Gothic Neo',arial,sans-serif;
+}
+footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+#korea, #sec{
+    padding:10px 20px 10px;
+    background-color: rgb(240, 240, 240);
+    border-top: thin rgb(204, 204, 204);
+    border-bottom: thin rgb(151, 151, 151);
+}
+#mar{
+    margin-right: 10px;
+}
